@@ -98,11 +98,11 @@ const BillingEdit = () => (
                                         <i className="fa fa-fw fa-paypal text-primary mr-2"></i>
                                         <span className="text-inverse">
                                             PayPal
-                                        </span> - Account: <samp>Tyshawn_Lakin56@gmail.com</samp>
+                                        </span> - Account: <samp>bbosa2009@gmail.com</samp>
                                     </div>
                                     <dl className="row">
                                         <dt className="col-sm-4 text-right">Next Payment Due</dt>
-                                        <dd className="col-sm-8 text-inverse">2016-05-21</dd>
+                                        <dd className="col-sm-8 text-inverse">2021-05-21</dd>
                                         <dt className="col-sm-4 text-right">Amount</dt>
                                         <dd className="col-sm-8 text-inverse">$ 13.00</dd>
                                         <dt className="col-sm-4 text-right">Action</dt>
